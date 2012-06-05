@@ -1,0 +1,22 @@
+A jQuery plugin for uploading files similar to an asynchronous upload. For lack of support for older browsers, the asynchronous upload is not a full reality. 
+This plugin uses the technique of many e-mail services to the online file upload. 
+
+Browser support (tested): 
+IE 6+
+Firefox 3.6+
+Opera 10+
+Chrome 14+ 
+
+Although recently a new plug. Uses known techniques to simulate the asynchronous send.
+
+-------------------------------
+Um plugin jQuery para upload de arquivos semelhante a um upload assíncrono.
+Pela falta de suporte de navegadores antigos, o upload assíncrono não é uma total realidade. Esse plugin utiliza a técnica de muitos serviços de e-mail online para o upload do arquivo.
+
+Suporte de navegador (testados):
+IE 6+
+Firefox 3.6+
+Opera 10+
+Chrome 14+
+
+Apesar de ser um plugin recentemente novo. Utiliza técnicas conhecidas para simular o envio assíncrono.
